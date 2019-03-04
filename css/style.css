@@ -19,3 +19,16 @@ body{
     border: 3px salmon solid;
     background-color: white;
 }
+
+.hold {
+    border: 4px #cccccc solid;
+}
+
+.hovered {
+    background: #f4f4f4;
+    border-style: dashed;
+}
+
+.invisible {
+    display: none;
+}
